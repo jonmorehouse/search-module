@@ -57,6 +57,8 @@ void generate_thumbnails(string input) {
 	vector<int>list;
 	search.property_id_search(input, list);
 	
+	
+	
 	for (int i = 0; i < list.size(); i++) {
 
 		property_element.thumbnail(list[i]);
