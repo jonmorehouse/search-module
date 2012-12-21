@@ -33,8 +33,7 @@ Database::Database(Configuration configuration) {
 }
 
 Database::~Database() {
-	
-	
+
 	
 }
 

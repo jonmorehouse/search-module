@@ -21,7 +21,6 @@ CFLAGS= -c -Wall
 
 LINKFLAGS= -lmysqlcppconn
 
-
 all: main.out
 
 # which files main.out depends upon! -- 
